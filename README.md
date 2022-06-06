@@ -1,4 +1,6 @@
-# Accounting for the Sequential Nature of States to Learn Features for Reinforcement Learning
+# Accounting for the Sequential Nature of States to Learn Features for Reinforcement Learning ⏱🏃
+
+**Nathan Michlo**, **Devon Jarvis**, **Richard Klein**, **Steven James**
 
 > In this work, we investigate the properties of data that cause popular representation learning approaches to fail. In particular, we find that in environments where states do not significantly overlap, variational autoencoders (VAEs) fail to learn useful features. We demonstrate this failure in a simple gridworld domain, and then provide a solution in the form of metric learning. However, metric learning requires supervision in the form of a distance function, which is absent in reinforcement learning. To overcome this, we leverage the sequential nature of states in a replay buffer to approximate a distance metric and provide a weak supervision signal, under the assumption that temporally close states are also semantically similar. We modify a VAE with triplet loss and demonstrate that this approach is able to learn useful features for downstream tasks, without additional supervision, in environments where standard VAEs fail.
 
