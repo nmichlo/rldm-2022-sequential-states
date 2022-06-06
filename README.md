@@ -8,8 +8,8 @@
 
 This repo contains additional resources such as the poster and paper
 
-- [📜 Paper](https://github.com/nmichlo/rldm-2022-sequential-states/raw/main/sequential-states__rldm-2022__paper.pdf)
-- [🖼 Poster](https://github.com/nmichlo/rldm-2022-sequential-states/raw/main/sequential-states__rldm-2022__poster.pdf)
+- [📜 Paper](https://github.com/nmichlo/rldm-2022-sequential-states/blob/main/sequential-states__rldm-2022__paper.pdf)
+- [🖼 Poster](https://github.com/nmichlo/rldm-2022-sequential-states/blob/main/sequential-states__rldm-2022__poster.pdf)
 
 For code, and related work, please see my [🧪 MSc. Research](https://github.com/nmichlo/msc-research)
 - VAE frameworks and experiments are run using my [🧶 disent](https://github.com/nmichlo/disent) framework.
